@@ -4,18 +4,20 @@ using System.Collections;
 public class movement : MonoBehaviour {
 	public float xpos;
 	public float ypos;
-	Camera camera;
+	public bool storOpen;
+
 	// Use this for initialization
 	void Start () {
 		xpos = 0;
 		ypos = 0;
-
+		storOpen = false;
 	}
 	
 	// Update is called once per frame
 
 	void Update ()
 	{
+
 
 		if (Input.GetKey (KeyCode.RightArrow)) {
 
@@ -39,7 +41,8 @@ public class movement : MonoBehaviour {
 		
 			ypos = transform.position.x;
 		}
-		
+			
 	}
+
 
 }
