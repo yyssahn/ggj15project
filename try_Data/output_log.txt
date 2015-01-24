@@ -13,16 +13,1401 @@ Platform assembly: C:\Users\Kate\Desktop\ggj14-master\ggj14-master\try_Data\Mana
 Loading C:\Users\Kate\Desktop\ggj14-master\ggj14-master\try_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
 Platform assembly: C:\Users\Kate\Desktop\ggj14-master\ggj14-master\try_Data\Managed\UnityEngine.UI.dll (this message is harmless)
 Loading C:\Users\Kate\Desktop\ggj14-master\ggj14-master\try_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.096 seconds
+- Completed reload, in  0.076 seconds
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 Platform assembly: C:\Users\Kate\Desktop\ggj14-master\ggj14-master\try_Data\Managed\System.Core.dll (this message is harmless)
-The referenced script on this Behaviour is missing!
+Platform assembly: C:\Users\Kate\Desktop\ggj14-master\ggj14-master\try_Data\Managed\System.dll (this message is harmless)
+-0.08410097
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
  
-(Filename:  Line: 1788)
+(Filename: C Line: 0)
 
-GameManager started
+-0.08410097
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
  
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+(Filename: C Line: 0)
+
+-0.2369251
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.2369251
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-0.2619247
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.2619247
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-0.3336136
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.3336136
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-0.4173553
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.4173553
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-0.501313
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.501313
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-0.5854589
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.5854589
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-0.6700688
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.6700688
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-0.7526559
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.7526559
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-0.8361903
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.8361903
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-0.9201223
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.9201223
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-1.003868
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-1.003868
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-1.087753
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-1.087753
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-1.171886
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-1.171886
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-1.255622
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-1.255622
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-1.338606
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-1.338606
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-1.421536
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-1.421536
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-1.505352
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-1.505352
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-1.58882
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-1.58882
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-1.674035
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-1.674035
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-1.75748
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-1.75748
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-1.839813
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-1.839813
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-1.924217
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-1.924217
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-2.007645
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-2.09082
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-2.175612
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-2.258641
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-2.341753
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-2.425501
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-2.508907
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-2.593504
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-2.677887
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-2.761024
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-2.761024
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-2.843951
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-2.843951
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-2.928146
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-2.928146
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-3.012127
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-3.012127
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-3.095706
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-3.095706
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-3.180776
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-3.180776
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-3.263327
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-3.263327
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-3.346722
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-3.346722
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-3.430582
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-3.430582
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-3.513971
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-3.513971
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-3.597129
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-3.597129
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-3.681226
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-3.681226
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-3.598117
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-3.514636
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-3.430821
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-3.347022
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-3.26346
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-3.17999
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-3.096391
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-3.012123
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-2.928512
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-2.844157
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-2.761071
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-2.676215
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-2.590581
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-2.509807
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-2.425296
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-2.342223
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-2.258723
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-2.174182
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-2.09143
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-2.008294
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-1.924697
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-1.840851
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-1.757451
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-1.672918
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-1.589645
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-1.506829
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-1.42255
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-1.338847
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-1.255544
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-1.171244
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-1.087722
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-1.004596
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.9202773
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.8362811
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.7530738
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.6693833
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.5858126
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.5023232
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.4178373
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.3349038
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.2505334
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.166689
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.08320597
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+0.0001466498
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.08403985
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.08403985
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.1672471
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.1672471
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.2499561
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.2499561
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.3347049
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.416997
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.5010616
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.5846088
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.6680063
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.752041
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.8360928
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.9194946
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-1.004092
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-1.004092
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.9205765
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-0.8367856
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-0.7528321
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-0.6691652
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-0.5862723
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-0.5023702
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-0.4184959
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-0.4184959
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:42)
+ 
+(Filename: C Line: 0)
+
+-0.5034628
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.5859794
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.6690797
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.7532042
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.8359261
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.9200356
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-1.003583
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-1.089461
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.9217483
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.8382075
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.7545833
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.6717032
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.5877156
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.5042496
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.4196013
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.3362979
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.2531548
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.2531548
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.3372985
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.3372985
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.4207516
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.4207516
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:35)
+ 
+(Filename: C Line: 0)
+
+-0.5067855
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.5885152
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.6717224
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.7555839
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
+
+-0.8390712
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:108)
+movement:Update() (at C:\Users\Kate\Desktop\ggj14-master\ggj14-master\Assets\movement.cs:28)
+ 
+(Filename: C Line: 0)
 

@@ -2,10 +2,14 @@
 using System.Collections;
 
 public class movement : MonoBehaviour {
-
+	public float xpos;
+	public float ypos;
+	Camera camera;
 	// Use this for initialization
 	void Start () {
-	
+		xpos = 0;
+		ypos = 0;
+
 	}
 	
 	// Update is called once per frame
@@ -16,18 +20,26 @@ public class movement : MonoBehaviour {
 		if (Input.GetKey (KeyCode.RightArrow)) {
 
 			transform.Translate (Vector3.right * 5 * Time.deltaTime);
-			print (transform.position.x);
+			xpos = transform.position.x;
 		}
 		if (Input.GetKey (KeyCode.LeftArrow)) {
 			transform.Translate (Vector3.left * 5 * Time.deltaTime);
+			xpos = transform.position.x;
+			print (xpos);
+
 		}
 		
 		if (Input.GetKey (KeyCode.UpArrow)) {
 			transform.Translate (Vector3.up * 5 * Time.deltaTime);
-			
+			ypos = transform.position.x;
+			print (ypos);
+
 		}
 		if (Input.GetKey (KeyCode.DownArrow)) {
 			transform.Translate (Vector3.down * 5 * Time.deltaTime);
+		
+			ypos = transform.position.x;
+			print (ypos);
 		}
 		
 	}
