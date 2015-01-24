@@ -48,5 +48,8 @@ public class playerController : MonoBehaviour
 			xpos = transform.position.x;
 			animator.SetInteger("Direction", 3);
 		}
+		else if(Input.anyKey == false){
+			animator.SetInteger ("Direction", 5);
+		}
 	}
 }
