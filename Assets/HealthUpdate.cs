@@ -14,7 +14,7 @@ public class HealthUpdate : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		healthMultiplier = (float) TextUpdate.health / 100;
+		healthMultiplier = (float) VariablesControl.health / 100;
 		print (healthMultiplier);
 		HealthBar.rectTransform.sizeDelta = new Vector2 ((200 * healthMultiplier), 5);
 		}
