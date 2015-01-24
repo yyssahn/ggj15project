@@ -14,8 +14,9 @@ public class movement : MonoBehaviour {
 	{
 
 		if (Input.GetKey (KeyCode.RightArrow)) {
+
 			transform.Translate (Vector3.right * 5 * Time.deltaTime);
-			print ("help");
+			print (transform.position.x);
 		}
 		if (Input.GetKey (KeyCode.LeftArrow)) {
 			transform.Translate (Vector3.left * 5 * Time.deltaTime);
