@@ -6,6 +6,7 @@ public class playerController : MonoBehaviour
 	public float ypos;
 	private Animator animator;
 
+
 	// Use this for initialization
 	void Start()
 	{
@@ -14,17 +15,13 @@ public class playerController : MonoBehaviour
 		animator = this.GetComponent<Animator>();
 	}
 	void OnCollisionEnter2D(Collision2D collection){
-		VariablesControl.Damage ();
-		/*
-		if (collection.gameObject.name == "snake_3") {
-			if (VariablesControl.health > 5) {
-				VariablesControl.health -= 5;
-			} else {
-				VariablesControl.health = 0;
-				VariablesControl.gameover = true;
-			}
+				if (collection.gameObject.name == "snake_3") {
+						VariablesControl.Damage ();
+						renderer.material.color = Color.red;
+				}
 		}
-		*/
+	void OnCollisionExit2D(Collision2D collection) {
+		renderer.material.color = Color.white;
 	}
 	// Update is called once per frame
 	void Update()
