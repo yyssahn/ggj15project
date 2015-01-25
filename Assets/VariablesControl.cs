@@ -40,20 +40,21 @@ public class VariablesControl : MonoBehaviour {
 	}
 	// Update is called once per frame
 	void Update () {
-
-		if (healthincrement < healthincmax){
-			healthincrement++;
-		}else{
-			health--;
-			if(healthincmax > 20){
-				healthincmax-=2;
-			}
-			healthincrement = 0;
-		}
-		if (health == 0) {
-			gameover = true;
-				}
-		if (gameover == false) {
+		if (gameover == true) {
+						Application.LoadLevel ("gameoverscene");
+				} else {
+						if (healthincrement < healthincmax) {
+								healthincrement++;
+						} else {
+								health--;
+								if (healthincmax > 10) {
+										healthincmax -= 5;
+								}
+								healthincrement = 0;
+						}
+						if (health == 0) {
+								gameover = true;
+						}
 						if (scoreincrement < 30) {
 								scoreincrement++;
 						} else {
@@ -61,6 +62,6 @@ public class VariablesControl : MonoBehaviour {
 								scoreincrement = 0;
 						}
 
-				}
+				}		
 	}
 }
