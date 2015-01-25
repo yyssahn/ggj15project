@@ -2,16 +2,16 @@
 using UnityEngine.UI;
 using System.Collections;
 
-public class findcore : MonoBehaviour {
+public class finalcore : MonoBehaviour {
 	
 	Text score;
 	
 	
-	public bool gameover;
 	// Use this for initialization
 	void Start () {
-		score = GetComponent<Text>();
-		score.text = "Score : ";
+		score = gameObject.GetComponent<Text>();
+	//	print (gameObject.GetInstanceID());
+		score.text = "Score : " +  VariablesControl.score;
 	}
 	
 	// Update is called once per frame
