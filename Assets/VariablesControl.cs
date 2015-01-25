@@ -28,6 +28,7 @@ public class VariablesControl : MonoBehaviour {
 				} else {
 			health = 0;
 			gameover = true;
+			Application.LoadLevel("gameoverscene");
 				}
 
 		}
