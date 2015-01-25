@@ -21,8 +21,8 @@ public class Generator : MonoBehaviour {
 
 	Vector3 GeneratedPosition() {
 		int x, y, z;
-		x = UnityEngine.Random.Range (min, max);
-		y = UnityEngine.Random.Range (min, max);
+		x = UnityEngine.Random.Range (-10, 10);
+		y = UnityEngine.Random.Range (-10, 10);
 		z = 0;
 		return new Vector3 (x, y, z);
 		}
