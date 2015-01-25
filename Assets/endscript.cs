@@ -1,27 +1,27 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class startscript : MonoBehaviour {
-
+public class endscript : MonoBehaviour {
+	
 	float a=0.0f;
 	bool trigger=false;
-	
-	Color fontColor=Color.white;
 
+	Color fontColor=Color.white;
+	
 	// Use this for initialization
 	void Start () {
-
-	
+		
+		
 	}
 	
 	// Update is called once per frame
 	void Update () {
-	
-				if (Input.GetKey (KeyCode.Space)) {
-						Application.LoadLevel ("testscene");
-				}
+		
+		if (Input.GetKey (KeyCode.Space)) {
+			Application.LoadLevel ("testscene");
 		}
-
+	}
+	
 	void OnGUI(){
 		a++;
 		
@@ -35,7 +35,7 @@ public class startscript : MonoBehaviour {
 		
 		gameObject.guiText.material.color=fontColor;
 	}
-
-
-
+	
+	
+	
 }
