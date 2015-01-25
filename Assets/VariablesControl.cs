@@ -22,6 +22,7 @@ public class VariablesControl : MonoBehaviour {
 		healthincmax = 50;
 		healthincrement = 0;
 		wood = 0;
+		gamewon = false;
 	}
 	public static void Damage(){
 		if (health > 5) {
@@ -43,7 +44,7 @@ public class VariablesControl : MonoBehaviour {
 
 	public static void Heal(){
 		if (!gameover) {
-			health += 10;
+			health += 20;
 			if(health>100){
 				health = 100;
 			}
@@ -60,7 +61,7 @@ public class VariablesControl : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (gamewon == true) {
-			print ("won");
+			Application.LoadLevel("winscene");
 
 				}
 		if (gameover == true) {
@@ -79,8 +80,8 @@ public class VariablesControl : MonoBehaviour {
 								healthincrement++;
 						} else {
 								health--;
-								if (healthincmax > 7) {
-										healthincmax -= 1;
+								if (healthincmax > 5) {
+										healthincmax -= 2;
 								}
 								healthincrement = 0;
 						}

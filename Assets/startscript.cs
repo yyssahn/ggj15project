@@ -18,7 +18,7 @@ public class startscript : MonoBehaviour {
 	void Update () {
 	
 				if (Input.GetKey (KeyCode.Space)) {
-						Application.LoadLevel ("testscene");
+						Application.LoadLevel ("instructionscene");
 				}
 		}
 
