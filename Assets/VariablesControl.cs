@@ -91,6 +91,6 @@ public class VariablesControl : MonoBehaviour {
 								scoreincrement = 0;
 						}
 
-				}		it
+				}		
 	}
 }

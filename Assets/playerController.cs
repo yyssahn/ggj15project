@@ -34,6 +34,13 @@ public class playerController : MonoBehaviour
 			VariablesControl.gainWood();
 				}
 	}
+
+	void OnCollisionStay2D(Collision2D collection) {
+		if (collection.gameObject.name == "snake_3") {
+						VariablesControl.Damage ();
+						renderer.material.color = Color.red;
+				}
+		}
 	void OnCollisionExit2D(Collision2D collection) {
 		renderer.material.color = Color.white;
 	}
