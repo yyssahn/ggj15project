@@ -41,26 +41,26 @@ public class playerController : MonoBehaviour
 		//var horizontal = Input.GetAxis("Horizontal");
 		if (Input.GetKey (KeyCode.UpArrow))
 		{
-			transform.Translate (Vector3.up * 3 * Time.deltaTime);
+			transform.Translate (Vector3.up * 5 * Time.deltaTime);
 			ypos = transform.position.x;
 			animator.SetInteger("Direction", 2);
 		}
 		else if (Input.GetKey (KeyCode.DownArrow))
 		{
-			transform.Translate (Vector3.down * 3 * Time.deltaTime);
+			transform.Translate (Vector3.down * 5 * Time.deltaTime);
 			ypos = transform.position.x;
 			animator.SetInteger("Direction", 0);
 		}
 		else if (Input.GetKey (KeyCode.LeftArrow))
 		{
-			transform.Translate (Vector3.left * 3 * Time.deltaTime);
+			transform.Translate (Vector3.left * 5 * Time.deltaTime);
 			xpos = transform.position.x;
 			animator.SetInteger("Direction", 1);
 			
 		}
 		else if (Input.GetKey (KeyCode.RightArrow))
 		{
-			transform.Translate (Vector3.right * 3 * Time.deltaTime);
+			transform.Translate (Vector3.right * 5 * Time.deltaTime);
 			xpos = transform.position.x;
 			animator.SetInteger("Direction", 3);
 		}

@@ -35,7 +35,7 @@ public class VariablesControl : MonoBehaviour {
 
 	public static void Heal(){
 		if (!gameover) {
-			health += 5;
+			health += 10;
 			if(health>100){
 				health = 100;
 			}
@@ -58,8 +58,8 @@ public class VariablesControl : MonoBehaviour {
 								healthincrement++;
 						} else {
 								health--;
-								if (healthincmax > 10) {
-										healthincmax -= 5;
+								if (healthincmax > 7) {
+										healthincmax -= 1;
 								}
 								healthincrement = 0;
 						}
