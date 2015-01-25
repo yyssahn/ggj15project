@@ -15,7 +15,7 @@ public class playerController : MonoBehaviour
 		animator = this.GetComponent<Animator>();
 	}
 	void OnCollisionEnter2D(Collision2D collection){
-		if (collection.gameObject.name == "snake_3") {
+		if (collection.gameObject.name == "snake_3" || collection.gameObject.name == "snake_4") {
 			VariablesControl.Damage ();
 			renderer.material.color = Color.red;
 		}
@@ -36,7 +36,7 @@ public class playerController : MonoBehaviour
 	}
 
 	void OnCollisionStay2D(Collision2D collection) {
-		if (collection.gameObject.name == "snake_3") {
+		if (collection.gameObject.name == "snake_3"||collection.gameObject.name == "snake_4") {
 						VariablesControl.Damage ();
 						renderer.material.color = Color.red;
 				}
