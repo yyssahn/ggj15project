@@ -36,7 +36,6 @@ public class VariablesControl : MonoBehaviour {
 
 	public static void gainWood(){
 		wood++;
-		print (wood);
 		if (wood == 10) {
 			gamewon = true;
 				}
@@ -60,6 +59,10 @@ public class VariablesControl : MonoBehaviour {
 	}
 	// Update is called once per frame
 	void Update () {
+		if (gamewon == true) {
+			print ("won");
+
+				}
 		if (gameover == true) {
 						PlayerPrefs.SetInt("score",score);
 						if(!PlayerPrefs.HasKey("highscore")){
