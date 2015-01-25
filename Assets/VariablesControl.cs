@@ -28,8 +28,18 @@ public class VariablesControl : MonoBehaviour {
 				} else {
 			health = 0;
 			gameover = true;
+			Application.LoadLevel("gameoverscene");
 				}
 
+		}
+
+	public static void Heal(){
+		if (!gameover) {
+			health += 10;
+			if(health>100){
+				health = 100;
+			}
+				}
 		}
 	public void reset(){
 		gameover = false;
@@ -48,8 +58,8 @@ public class VariablesControl : MonoBehaviour {
 								healthincrement++;
 						} else {
 								health--;
-								if (healthincmax > 10) {
-										healthincmax -= 5;
+								if (healthincmax > 7) {
+										healthincmax -= 1;
 								}
 								healthincrement = 0;
 						}
