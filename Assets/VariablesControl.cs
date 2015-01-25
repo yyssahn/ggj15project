@@ -32,6 +32,15 @@ public class VariablesControl : MonoBehaviour {
 				}
 
 		}
+
+	public static void Heal(){
+		if (!gameover) {
+			health += 5;
+			if(health>100){
+				health = 100;
+			}
+				}
+		}
 	public void reset(){
 		gameover = false;
 		score = 0;

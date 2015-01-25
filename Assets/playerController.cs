@@ -19,6 +19,12 @@ public class playerController : MonoBehaviour
 						VariablesControl.Damage ();
 						renderer.material.color = Color.red;
 				}
+		if (collection.gameObject.name=="avocadoPrefab(Clone)"){
+			Destroy(collection.gameObject);
+			VariablesControl.Heal();
+
+			//Instantiate (Generator.avocado, Generator.GeneratedPosition (), Quaternion.identity);
+		}
 		}
 	void OnCollisionExit2D(Collision2D collection) {
 		renderer.material.color = Color.white;
