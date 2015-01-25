@@ -29,6 +29,10 @@ public class playerController : MonoBehaviour
 			
 			Instantiate (avocado, new Vector3(x,y,z), Quaternion.identity);
 		}
+		if (collection.gameObject.name == "woodprefab(Clone)") {
+			Destroy(collection.gameObject);
+			VariablesControl.gainWood();
+				}
 	}
 	void OnCollisionExit2D(Collision2D collection) {
 		renderer.material.color = Color.white;
