@@ -9,9 +9,10 @@ public class VariablesControl : MonoBehaviour {
 	private int healthincmax;
 	private int scoreincrement;
 	public GameObject gameovg;
-
 	
 	public static bool gameover;
+
+	private GUITexture myGUITexture;
 	// Use this for initialization
 	void Start () {
 		gameover = false;
