@@ -1,13 +1,11 @@
 ﻿using UnityEngine;
 using System.Collections;
-
 public class playerController : MonoBehaviour
 {
 	public float xpos;
 	public float ypos;
-	Camera camera;
 	private Animator animator;
-	
+
 	// Use this for initialization
 	void Start()
 	{
@@ -15,14 +13,25 @@ public class playerController : MonoBehaviour
 		ypos = 0;
 		animator = this.GetComponent<Animator>();
 	}
-	
+	void OnCollisionEnter2D(Collision2D collection){
+		VariablesControl.Damage ();
+		/*
+		if (collection.gameObject.name == "snake_3") {
+			if (VariablesControl.health > 5) {
+				VariablesControl.health -= 5;
+			} else {
+				VariablesControl.health = 0;
+				VariablesControl.gameover = true;
+			}
+		}
+		*/
+	}
 	// Update is called once per frame
 	void Update()
 	{
 		
 		//var vertical = Input.GetAxis("Vertical");
 		//var horizontal = Input.GetAxis("Horizontal");
-
 		if (Input.GetKey (KeyCode.UpArrow))
 		{
 			transform.Translate (Vector3.up * 3 * Time.deltaTime);
@@ -52,4 +61,5 @@ public class playerController : MonoBehaviour
 			animator.SetInteger ("Direction", 5);
 		}
 	}
+
 }

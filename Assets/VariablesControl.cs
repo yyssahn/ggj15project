@@ -11,7 +11,7 @@ public class VariablesControl : MonoBehaviour {
 	public GameObject gameovg;
 
 	
-	public bool gameover;
+	public static bool gameover;
 	// Use this for initialization
 	void Start () {
 		gameover = false;
@@ -21,7 +21,15 @@ public class VariablesControl : MonoBehaviour {
 		healthincmax = 50;
 		healthincrement = 0;
 	}
+	public static void Damage(){
+		if (health > 5) {
+						health -= 5;
+				} else {
+			health = 0;
+			gameover = true;
+				}
 
+		}
 	public void reset(){
 		gameover = false;
 		score = 0;
