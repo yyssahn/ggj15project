@@ -30,6 +30,13 @@ public class playerController : MonoBehaviour
 			Instantiate (avocado, new Vector3(x,y,z), Quaternion.identity);
 		}
 	}
+
+	void OnCollisionStay2D(Collision2D collection) {
+		if (collection.gameObject.name == "snake_3") {
+						VariablesControl.Damage ();
+						renderer.material.color = Color.red;
+				}
+		}
 	void OnCollisionExit2D(Collision2D collection) {
 		renderer.material.color = Color.white;
 	}
